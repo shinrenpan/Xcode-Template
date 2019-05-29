@@ -9,6 +9,4 @@ import UIKit
     var window: UIWindow?
 }
 
-extension AppDelegate: UIApplicationDelegate
-{
-}
+extension AppDelegate: UIApplicationDelegate {}
